@@ -1,0 +1,135 @@
+default:
+    timestamp: 1641829137465
+    metadata:
+        User Checkpoint AnotherTrue: "Fund AnotherTrue Account:
+            NWYS5IFPJ75X4ZBFIY5X5UGA6TUHHZ2YDQZASPUC7AGOE2LO3TLHKOVB5A"
+    asa: {}
+    ssc: {}
+    dLsig:
+        another-true.teal:
+            creator: A6VMTD3ANJRNMBO5GVB7JMPSQLBUWZUL7BISCLEZAJGAMAYV2ST7NOQWOE
+            contractAddress: A6VMTD3ANJRNMBO5GVB7JMPSQLBUWZUL7BISCLEZAJGAMAYV2ST7NOQWOE
+            lsig:
+                lsig:
+                    tag:
+                        - 80
+                        - 114
+                        - 111
+                        - 103
+                        - 114
+                        - 97
+                        - 109
+                    logic:
+                        - 4
+                        - 32
+                        - 1
+                        - 1
+                        - 34
+                        - 129
+                        - 2
+                        - 8
+                        - 129
+                        - 3
+                        - 18
+                        - 34
+                        - 67
+                    args: []
+                    sig:
+                        - 114
+                        - 196
+                        - 42
+                        - 229
+                        - 139
+                        - 232
+                        - 132
+                        - 122
+                        - 78
+                        - 96
+                        - 155
+                        - 206
+                        - 20
+                        - 114
+                        - 155
+                        - 10
+                        - 118
+                        - 160
+                        - 101
+                        - 91
+                        - 53
+                        - 147
+                        - 124
+                        - 158
+                        - 16
+                        - 124
+                        - 91
+                        - 145
+                        - 231
+                        - 98
+                        - 85
+                        - 146
+                        - 173
+                        - 217
+                        - 58
+                        - 145
+                        - 180
+                        - 227
+                        - 184
+                        - 185
+                        - 226
+                        - 246
+                        - 1
+                        - 27
+                        - 9
+                        - 130
+                        - 111
+                        - 59
+                        - 125
+                        - 91
+                        - 102
+                        - 75
+                        - 230
+                        - 124
+                        - 143
+                        - 88
+                        - 215
+                        - 74
+                        - 237
+                        - 120
+                        - 191
+                        - 2
+                        - 33
+                        - 2
+                    msig: null
+                sigkey:
+                    - 7
+                    - 170
+                    - 201
+                    - 143
+                    - 96
+                    - 106
+                    - 98
+                    - 214
+                    - 5
+                    - 221
+                    - 53
+                    - 67
+                    - 244
+                    - 177
+                    - 242
+                    - 130
+                    - 195
+                    - 75
+                    - 102
+                    - 139
+                    - 248
+                    - 81
+                    - 33
+                    - 44
+                    - 153
+                    - 2
+                    - 76
+                    - 6
+                    - 3
+                    - 21
+                    - 212
+                    - 167

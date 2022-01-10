@@ -1,0 +1,17 @@
+{
+  "name": "sample-project",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  },
+  "scripts": {
+    "algob": "algob"
+  },
+  "dependencies": {
+    "@algo-builder/algob": "^3.0.0",
+    "@algo-builder/runtime": "^3.0.0",
+    "@algo-builder/web": "^3.0.0"
+  }
+}

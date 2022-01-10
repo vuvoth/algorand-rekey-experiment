@@ -1,0 +1,58 @@
+default:
+    timestamp: 1641829136587
+    metadata: {}
+    asa:
+        minimumASA:
+            creator: A6VMTD3ANJRNMBO5GVB7JMPSQLBUWZUL7BISCLEZAJGAMAYV2ST7NOQWOE
+            txId: W2CRQPNWR6CWYF5XKO3VDAZTRMU4B72CAQNBS7CWLZYFQ3VFLEXQ
+            assetIndex: 11
+            confirmedRound: 11
+            assetDef:
+                total: 1
+                decimals: 0
+                unitName: unitName
+                manager: null
+                reserve: null
+                freeze: null
+                clawback: null
+                defaultFrozen: false
+                name: minimumASA
+            deleted: false
+        minimumASA1:
+            creator: A6VMTD3ANJRNMBO5GVB7JMPSQLBUWZUL7BISCLEZAJGAMAYV2ST7NOQWOE
+            txId: N23OE5KPUWIV7BBKFT25WQCJSDRUXPAYWEITRJMKDVVQL6DW6PNA
+            assetIndex: 12
+            confirmedRound: 12
+            assetDef:
+                total: 1
+                decimals: 0
+                unitName: unitName
+                manager: null
+                reserve: null
+                freeze: null
+                clawback: null
+                defaultFrozen: false
+                name: minimumASA1
+            deleted: false
+        allFieldASA:
+            creator: A6VMTD3ANJRNMBO5GVB7JMPSQLBUWZUL7BISCLEZAJGAMAYV2ST7NOQWOE
+            txId: F3LPSYHIMKBB36GDVPGTUTLU54DLHJBTPEPMSJDJ62EX645S3ALA
+            assetIndex: 13
+            confirmedRound: 13
+            assetDef:
+                total: 1
+                decimals: 0
+                defaultFrozen: true
+                unitName: unitName
+                url: url
+                metadataHash: "12312442142141241244444411111133"
+                note: note
+                noteb64: noteb64
+                manager: WWYNX3TKQYVEREVSW6QQP3SXSFOCE3SKUSEIVJ7YAGUPEACNI5UGI4DZCE
+                reserve: WWYNX3TKQYVEREVSW6QQP3SXSFOCE3SKUSEIVJ7YAGUPEACNI5UGI4DZCE
+                freeze: WWYNX3TKQYVEREVSW6QQP3SXSFOCE3SKUSEIVJ7YAGUPEACNI5UGI4DZCE
+                clawback: WWYNX3TKQYVEREVSW6QQP3SXSFOCE3SKUSEIVJ7YAGUPEACNI5UGI4DZCE
+                name: allFieldASA
+            deleted: false
+    ssc: {}
+    dLsig: {}
